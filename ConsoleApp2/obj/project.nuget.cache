@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8CrAtuY0WJSPDncs0m3QKJ9nC8ejs5Tr2mqRpyKQ03nvzxUd9dcDuINLRRrOUJoNGU5SDiJzsqfZKuLiXVRtQ==",
+  "success": true,
+  "projectFilePath": "D:\\tests\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kivro\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\kivro\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\kivro\\.nuget\\packages\\mediatr.strategies\\1.0.0\\mediatr.strategies.1.0.0.nupkg.sha512",
+    "C:\\Users\\kivro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
